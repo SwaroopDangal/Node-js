@@ -1,0 +1,3 @@
+Js is both scripting as well as programming language
+Node js is like wings of js
+Node js is runtime environment of Js
